@@ -9,7 +9,8 @@ The interface of this application is very simple
 - **Buttons Edit**: Edits information in the album.
 - **Buttons Delete**: Removes the selected album from the list.
 
-follow the link below to see how the application works
+
+# follow the link below to see how the application works
 ## Video
 https://drive.google.com/file/d/1Z7YBEBNN7f8K-80PCSZdKJcSRGH3kCYL/view?usp=drive_link
 # Quick copy of a project
